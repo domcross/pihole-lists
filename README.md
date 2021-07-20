@@ -1,1 +1,3 @@
 For what its worth some Pihole blocking lists...
+
+`NSO-Pegasus.txt` contains all URIs mention in Amnesty Internationals forensic methodology [report](https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/) on NSO Group's Pegasus software.
